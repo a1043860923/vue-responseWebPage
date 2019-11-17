@@ -2,7 +2,7 @@
 
 # 响应式及二级菜单展示
 1200px以上时(以及二级菜单功能的展示):
-https://github.com/a1043860923/vue-responseWebPage/blob/master/md_img/1200px%E4%BB%A5%E4%B8%8A2.PNG
+![image](https://github.com/a1043860923/vue-responseWebPage/blob/master/md_img/1200px%E4%BB%A5%E4%B8%8A2.PNG)
 
 993-1200px时(以及二级菜单功能的展示):
 https://github.com/a1043860923/vue-responseWebPage/blob/master/md_img/993-1200px2.PNG
